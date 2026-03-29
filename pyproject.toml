@@ -1,0 +1,23 @@
+[project]
+name = "investment-analyst"
+version = "0.1.0"
+description = "Multi-agent investment researcher using gpt-4o-mini"
+readme = "README.md"
+authors = [
+    {name = "Hareesh R"}
+]
+requires-python = ">=3.11"
+dependencies = [
+    "openai",
+    "pydantic",
+    "python-dotenv",
+    "gradio",
+    "sendgrid",
+    "googlesearch-python",
+    "requests",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "ipykernel",
+]
