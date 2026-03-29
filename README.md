@@ -46,4 +46,4 @@ Once the Report Writer finalizes the thesis, you receive a professional-grade in
 ![Teaser](assets/5.png)
 
 
-**Disclaimer:** This is an AI prototype for educational purposes. It does not constitute financial advice. Invest in the Indian market at your own risk.
+**Disclaimer:** This is an AI prototype. It does not constitute financial advice. Invest in the Indian market at your own risk.
